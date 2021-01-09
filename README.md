@@ -1,5 +1,5 @@
 # GarageInvoice
-The GarageInvoice Window is an invoice application where the user can input all the required information and the data would be saved on an online database. The main form includes features such as auto-fill if the car's VIN is inputted, as well as different services available at the garage with their relative prices based on the time the service takes and the wage. From the main form, the user can access an admin page, where the admin can login and change ___ such as wages, add, change and delete services.
+The GarageInvoice is a desktop invoice application where mechanics can easily create invoices for the services provided. It helps the business stay organized as all the invoices are saved in a quickly accessible online MySQL database. The main form includes features such as auto-fill if the car's VIN is inputted, as well as different services available at the garage with their relative prices based on the time the service takes and the wage. From the main form, the user can access an admin page, where the admin can log in and make changes to service and wage information.
 
 
 ## Built with
